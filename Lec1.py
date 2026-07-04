@@ -7,3 +7,9 @@ roll_no = 154
 print(roll_no) #Integer variable
 cgpa = 3.5 #Float variable
 print(cgpa)
+students_names = ["Ali", "Ahmed", "Bilal", "Zain"] 
+#List variable
+students_marks = [85, 90, 78, 92]  # List variable
+print(students_names)
+print(students_marks)
+
