@@ -12,4 +12,4 @@ students_names = ["Ali", "Ahmed", "Bilal", "Zain"]
 students_marks = [85, 90, 78, 92]  # List variable
 print(students_names)
 print(students_marks)
-
+print('"Hello world!"')
